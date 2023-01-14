@@ -1,1 +1,5 @@
 this is rquirement file from haji
+
+alaram feature
+
+stop watch
